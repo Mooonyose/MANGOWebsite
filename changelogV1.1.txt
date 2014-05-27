@@ -1,0 +1,12 @@
+Changelog v1.1
+
+- Update to bootstrap 3.1.1
+- Update font-awesome 4.0.3
+- Change logo style
+- Remove 4 style of pricing table and just add 1 new style of pricing table
+- Add sub-dropdown menu navbar style
+- Add new style blog and blog single
+- Change blog tag style
+- Change slider style
+- Change style homepage product
+- Add Dodolan Manuk black,purple, and green color
